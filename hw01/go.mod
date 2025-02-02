@@ -1,4 +1,4 @@
-module github.com/anletunov/homework_otus/hw01_hello_otus
+module github.com/anletunov/hw_public/hw01
 
 go 1.22
 
